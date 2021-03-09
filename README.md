@@ -1,4 +1,4 @@
-![SpruceJoy logo](https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/sprucejoy-circle-logo-with-text.png)
+![SpruceJoy logo](https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/sprucejoy-circle-logo-with-text.png =250x)
 
 ---
 
